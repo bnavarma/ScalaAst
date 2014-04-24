@@ -1,7 +1,7 @@
 package Avinash
 
 object Test{
-	def main(args: Array[String]) {
+	def main() {
 		val a= new Avi;
 	}
 }
